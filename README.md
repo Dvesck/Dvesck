@@ -3,12 +3,8 @@
  Java and Spring developer focused on building reliable and well-structured solutions. 
 I enjoy working on projects that prioritize performance, clarity, and long-term maintainability.
 ---
-• Currently working on: Java-based applications and improving my backend development skills.
-
-• Interested in collaborating on: Projects that value clean code and efficient problem-solving.
-
-• Ask me about: Java fundamentals, object-oriented programming, and backend logic.
-
+### What I Do?
+-   🧩 Clean architecture & system design
 
 ---
 
