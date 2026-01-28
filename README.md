@@ -1,6 +1,6 @@
-# Hello! I'm Vesck
+# Hello! I'm Vesck 👋
 
- a Java and Spring developer focused on building reliable and well-structured solutions. 
+ Java and Spring developer focused on building reliable and well-structured solutions. 
 I enjoy working on projects that prioritize performance, clarity, and long-term maintainability.
 ---
 • Currently working on: Java-based applications and improving my backend development skills.
