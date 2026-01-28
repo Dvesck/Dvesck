@@ -9,7 +9,7 @@ I enjoy working on projects that prioritize performance, clarity, and long-term 
 
 • Ask me about: Java fundamentals, object-oriented programming, and backend logic.
 
-• Fun fact: I believe the best code is the one that’s easy to read and hard to break.
+
 ---
 
 ### 🔨 Tech Stack
