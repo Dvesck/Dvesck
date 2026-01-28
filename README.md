@@ -12,7 +12,7 @@ I enjoy working on projects that prioritize performance, clarity, and long-term 
 
 ---
 
-### 🔨 Tech Stack
+###🔨 Tech Stack
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 width="40"/>
