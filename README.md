@@ -19,7 +19,7 @@ width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 width="40"/>
           
-          
+---          
 
 # 📊 GitHub Stats
 <div> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vesc&show_icons=true&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesc&layout=compact&theme=tokyonight"/> </div>
