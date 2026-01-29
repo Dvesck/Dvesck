@@ -1,4 +1,4 @@
-# Hello! I'm Vesck 👋
+# Hello! I'm Vesck 👨‍💻
 
 Software developer focused on **Java**, with experience in building applications using the **Spring Framework**.
 
