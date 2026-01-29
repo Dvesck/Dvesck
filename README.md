@@ -3,12 +3,14 @@
  Java and Spring developer focused on building reliable and well-structured solutions. 
 I enjoy working on projects that prioritize performance, clarity, and long-term maintainability.
 
+---
+
 ## 🔨 Tech Stack
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-width="30"/>
+width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-width="30"/>
+width="50"/>
           
 ---          
 
