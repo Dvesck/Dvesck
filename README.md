@@ -2,14 +2,13 @@
 
 Software developer focused on **Java**, with experience in building applications using the **Spring Framework**.
 
-- Strong interest in **software architecture** and **best practices**
-- Focused on developing **scalable and well-structured solutions**
-- Experience and interest in **software development**, working on reliable and maintainable applications
+• Currently focused on: Backend development using **Java** and the **Spring Framework**.  
+• Open to collaboration on: Well-structured software projects that prioritize quality and scalability.  
 
 
 ---
 
-## 🔨 Tech Stack
+## 🔨 Tech 
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 width="50"/>
