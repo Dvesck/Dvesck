@@ -7,9 +7,9 @@ I enjoy working on projects that prioritize performance, clarity, and long-term 
 ## 🔨 Tech Stack
 <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-width="40"/>
+width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-width="40"/>
+width="30"/>
           
 ---          
 
