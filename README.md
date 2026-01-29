@@ -1,6 +1,6 @@
 # Hello! I'm Vesck 👋
 
-Software developer focused on Java, with experience in building applications using the Spring Framework.
+Software developer focused on **Java, with experience in building applications using the Spring Framework.**
 Strong interest in software architecture, best practices, and developing scalable, well-structured solutions.
 Continuously improving technical skills through hands-on projects and ongoing learning.
 
